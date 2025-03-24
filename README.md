@@ -36,7 +36,7 @@ This project implements a predictive analytics model to estimate passenger crowd
 
 - Run the script to generate passenger flow predictions:
 
-- python predictive_model.py
+- Predicting_Passenger_Flow_in_Autonomous_Transport.ipynb 
 
 ## Output
 
@@ -46,7 +46,7 @@ This project implements a predictive analytics model to estimate passenger crowd
 
 ## Project Structure
 
-├── predictive_model.py   # Main script for passenger flow prediction
+├── Predicting_Passenger_Flow_in_Autonomous_Transport.ipynb   # Main script for passenger flow prediction
 ├── README.md             # Project documentation
 
 ## License
